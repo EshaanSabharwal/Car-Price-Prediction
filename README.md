@@ -14,11 +14,15 @@ Feature selection
 Model training
 Performance evaluation
 Accuracy comparison of regression models
+
+
 🎯 Objectives
 Predict car prices based on various car features.
 Train and evaluate multiple regression models.
 Compare Linear Regression and Lasso Regression performance.
 Analyze model accuracy on training and testing data.
+
+
 🛠️ Technologies Used
 Python
 NumPy
@@ -26,6 +30,8 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-learn
+
+
 📂 Dataset
 
 The dataset contains various features related to cars such as:
@@ -39,6 +45,8 @@ Seller Type
 Transmission
 Owner
 Selling Price
+
+
 ⚙️ Machine Learning Models Used
 1️⃣ Linear Regression
 
@@ -47,6 +55,7 @@ Linear Regression establishes a linear relationship between independent variable
 2️⃣ Lasso Regression
 
 Lasso Regression is a regularized version of Linear Regression that helps reduce overfitting and performs feature selection by shrinking less important feature coefficients.
+
 
 🔍 Project Workflow
 Importing Libraries
@@ -59,6 +68,7 @@ Training Regression Models
 Evaluating Model Performance
 Comparing Accuracy Scores
 Predicting Car Prices
+
 📊 Model Evaluation
 
 The models are evaluated using:
